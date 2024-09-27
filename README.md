@@ -246,8 +246,6 @@ plt.show()
 
 ![image](https://github.com/Kalpanareshma/EXNO-3-DS/assets/122040453/f90300da-5c31-4136-a0a2-03b7c5af95c5)
 
-
-
 ```
 df["Highly Negative Skew_1"]=qt.fit_transform(df[["Highly Negative Skew"]])
 sm.qqplot(df["Highly Negative Skew"],line='45')
@@ -260,6 +258,8 @@ sm.qqplot(df["Highly Negative Skew_1"],line='45')
 plt.show()
 ```
 ![image](https://github.com/Kalpanareshma/EXNO-3-DS/assets/122040453/90325656-017f-4082-8eb7-ed129a86a289)
+
+
 ### RESULT:
+
        Thus the given data, Feature Encoding, Transformation process and save the data to a file was performed successfully.
-       
