@@ -261,5 +261,4 @@ plt.show()
 
 
 ### RESULT:
-
-       Thus the given data, Feature Encoding, Transformation process and save the data to a file was performed successfully.
+Thus the given data, Feature Encoding, Transformation process and save the data to a file was performed successfully.
